@@ -1,0 +1,10 @@
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\bin\Debug\CHALLENGE_3BADGE.exe.config
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\bin\Debug\CHALLENGE_3BADGE.exe
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\bin\Debug\CHALLENGE_3BADGE.pdb
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\bin\Debug\Library.dll
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\bin\Debug\Library.pdb
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\obj\Debug\CHALLENGE_3BADGE.csproj.AssemblyReference.cache
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\obj\Debug\CHALLENGE_3BADGE.csproj.CoreCompileInputs.cache
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\obj\Debug\CHALLENGE_3BADGE.csproj.CopyComplete
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\obj\Debug\CHALLENGE_3BADGE.exe
+C:\Users\Express Pantry\source\repos\CHALLENGE_3BADGE\CHALLENGE_3BADGE\obj\Debug\CHALLENGE_3BADGE.pdb
