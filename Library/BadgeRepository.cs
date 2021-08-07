@@ -59,8 +59,6 @@ namespace Library
             else
             {
                 return false;
-
-
             }
         }
     }
